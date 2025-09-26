@@ -1,1 +1,1 @@
-Folder ini berisi tugas-tugas yang saya kerjakan.
+Folder ini dikhususkan untuk file yang berkaitan dengan tugas yang telah saya kerjakan.
