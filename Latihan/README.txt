@@ -1,1 +1,1 @@
-Folder ini berisi latihan-latihan yang saya lakukan diluar tugas saya.
+Folder ini akan berisi latihan-latihan yang saya lakukan diluar tugas saya.
