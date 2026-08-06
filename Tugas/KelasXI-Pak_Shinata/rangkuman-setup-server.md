@@ -1,0 +1,1 @@
+Ya intinya gitu dah
