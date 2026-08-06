@@ -5,10 +5,10 @@
 
 # 1. Identitas
 
-Nama       : Arka Febrian Azzavien
-Kelas      : XI RPL 1
-No. Absen  : 09
-Tanggal    : 06 Agustus 2026
+Nama : Arka Febrian Azzavien
+Kelas : XI RPL 1
+No. Absen : 09
+Tanggal : 06 Agustus 2026
 
 ---
 
